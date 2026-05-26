@@ -2,6 +2,7 @@
 Solución del Problema 3 del curso Fundamentos de Programación (213022) – UNAD. Auditoría de inventario en Python: matriz de artículos, función de cálculo de reabastecimiento y reporte de pedidos.
 # Problema 3: Auditoría de Inventario
 # Curso: Fundamentos de Programación
+# MARIA JOSE PIÑEROS- CURSO 213022_759
 # 1. Matriz de inventario (al menos 5 artículos)
 # Formato: [Código, Nombre, Stock Actual, Stock Mínimo]
 inventario = [
