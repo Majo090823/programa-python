@@ -1,8 +1,6 @@
-# ==================================================
 # Problema 3: Auditoría de Inventario
 # Curso: Fundamentos de Programación
-# ==================================================
-# 1. Matriz de inventario (al menos 5 artículos)
+# 1. Matriz de inventario
 # Formato: [Código, Nombre, Stock Actual, Stock Mínimo]
 inventario = [
     ["A001", "Tornillo", 150, 200],
