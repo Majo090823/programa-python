@@ -1,5 +1,6 @@
 # Problema 3: Auditoría de Inventario
 # Curso: Fundamentos de Programación
+# MARIA JOSE PIÑEROS CURSO-213022-759
 # 1. Matriz de inventario
 # Formato: [Código, Nombre, Stock Actual, Stock Mínimo]
 inventario = [
